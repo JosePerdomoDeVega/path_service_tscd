@@ -1,0 +1,9 @@
+httpx
+pydantic
+boto3
+booktype
+pydantic-settings
+logfire
+fastapi
+redis==7.1.0
+neo4j

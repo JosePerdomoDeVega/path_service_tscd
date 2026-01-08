@@ -1,6 +1,5 @@
 from typing import Any, Dict
 from pydantic import BaseModel
-
 from domain.models.job import Job
 
 
